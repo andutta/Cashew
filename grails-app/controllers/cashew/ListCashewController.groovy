@@ -2,7 +2,7 @@ package cashew
 
 class ListCashewController {
 
-    /* Test project */ 
+    /* Test project for GIT */ 
     def storyboard = { 
 		def allStories = ListCashew.list();
 		[allStories:allStories]
